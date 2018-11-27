@@ -1,0 +1,11 @@
+.git
+.idea
+.gitignore
+
+target
+kafka-streams-session.iml
+
+docker-compose.yml
+docker-compose.cluster.yml
+README.md
+Dockerfile
